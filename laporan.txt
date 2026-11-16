@@ -1,0 +1,4 @@
+=== LAPORAN SISA KUOTA KAMAR - GRAND ASTON ===
+OBJ-A | Suite Room | Sisa Kuota: 6
+OBJ-B | Reguler Room | Sisa Kuota: 2
+OBJ-C | Standard Room | Sisa Kuota: 48
